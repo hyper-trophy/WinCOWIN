@@ -1,6 +1,9 @@
 # VaccASSIST
 Automate you vaccine slot booking process on CO-WIN. 
 
+## VIDEO TUTORIAL
+* https://youtu.be/VkrjcXEk4H4
+
 ## INSTALLATION
 1. Download VaccASSIST.crx and save it in your computer.
 2. Right click and extract to VaccASSIST. (note that "mainifest.json" file shoud be immediately inside this folder)
@@ -22,3 +25,8 @@ Automate you vaccine slot booking process on CO-WIN.
 4. Select state and district.
 5. Now click on VaccASSIST extension and choose options (see Options sections for more information).
 6. click on start. The list will refreshed every couple of second, if slots open (according to option you have chosen) it will produce beep and alert you.
+
+## Note
+* _This extension will only work for search by district_
+* _Don't Click on Start button twice as it will mess up, you can click on stop and then start_
+* _If you want to stop refreshing list click on stop_
