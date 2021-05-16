@@ -1,3 +1,7 @@
+## Version Updated to V2
+* __New :__ Now you can select vaccine (Covaxin, Covishield, Sputnik V) from the Extension.
+* __Bug Fixed :__ Stop button can now stop beeping Alarm.
+
 # VaccASSIST
 Automate you vaccine slot booking process on CO-WIN. 
 
