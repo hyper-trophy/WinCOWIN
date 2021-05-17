@@ -1,4 +1,5 @@
-## Version Updated to V2.1
+## Version Updated to V3
+* __New :__ Waring during automatic logout form cowin website
 * __New :__ Now you can select vaccine (Covaxin, Covishield, Sputnik V) from the Extension.
 * __Pin Search :__ Now extension will also work for pin search.
 * __Bug Fixed :__ Stop button can now stop beeping Alarm.
