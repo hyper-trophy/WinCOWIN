@@ -1,4 +1,6 @@
-## Version Updated to V3
+## Version Updated to V4
+* __New :__ CAPTCHA WILL BE FILLED AUTOMATICALLY 🤩
+* __New :__ Option to filter paid vaccination centers
 * __New :__ Waring during automatic logout form cowin website
 * __New :__ Now you can select vaccine (Covaxin, Covishield, Sputnik V) from the Extension.
 * __Pin Search :__ Now extension will also work for pin search.
