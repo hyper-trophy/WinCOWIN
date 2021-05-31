@@ -6,7 +6,7 @@
 Automate you vaccine slot booking process on CO-WIN. 
 
 ## VIDEO TUTORIAL
-* https://youtu.be/VkrjcXEk4H4
+* https://youtu.be/ZM6e832wtnI
 
 ## INSTALLATION
 1. Download VaccASSIST.crx and save it in your computer.
