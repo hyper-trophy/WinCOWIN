@@ -1,10 +1,6 @@
-## Version Updated to V4
+## Version Updated to V5
 * __New :__ CAPTCHA WILL BE FILLED AUTOMATICALLY 🤩
-* __New :__ Option to filter paid vaccination centers
-* __New :__ Waring during automatic logout form cowin website
-* __New :__ Now you can select vaccine (Covaxin, Covishield, Sputnik V) from the Extension.
-* __Pin Search :__ Now extension will also work for pin search.
-* __Bug Fixed :__ Stop button can now stop beeping Alarm.
+* __New :__ Now you can select centers if you want.
 
 # VaccASSIST
 Automate you vaccine slot booking process on CO-WIN. 
@@ -22,9 +18,10 @@ Automate you vaccine slot booking process on CO-WIN.
 
 ## OPTIONS
 * Only 18+: It will alert you if there are any slots for for age category of 18+. If disable it will alert for any open slots.
-* Fast-forward: If enabled, during refreshing, if any free slot is available, it will play alert beep, automatically click on that slot and will choose Slot time as specified in extension, the only thing you need to do is put in captcha and submit.
+* Fast-forward: If enabled, during refreshing, if any free slot is available, it will notify with audio message, automatically click on that slot and will choose Slot time as specified in extension, will automatically fill captch (if auto-submit is enabled it will also submit it).
   * pros: You will save time of clicking on free slot and choosing time slot.
   * cons: as it will open free slot as soon as it is availabe, make sure that the vaccination center is accessible by you.  
+* Auto-submit: if fast-forward and auto-subit are enabled it will confirm the slot automatically if available.
 
 ## USAGE
 1. open https://selfregistration.cowin.gov.in/ and login.
